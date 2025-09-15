@@ -1,7 +1,7 @@
 import React from 'react';
 import myPic from '../images/purulia.jpeg';
 import { Link, useLocation } from 'react-router-dom';
-import myCv from "../components/utils/Biswarup_Ghosh_CV.pdf";
+import myCv from "../components/utils/Biswarup_Ghosh_resume.pdf";
 import { Typewriter } from 'react-simple-typewriter';
 
 const Home = () => {
